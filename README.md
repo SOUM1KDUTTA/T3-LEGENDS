@@ -1,12 +1,9 @@
 # 🏆 T3 LEGENDS 🏆
 **The Next Evolution of Strategic Tic-Tac-Toe**  
-[![License: MIT](https://img.shields.io/badge/License-MIT-gold.svg)](https://opensource.org/licenses/MIT)
 
 A modern twist on the classic game with dynamic moves, strategic depth, and neon-powered visuals.  
 **Live Demo**: [Play Now](https://t3-legends.vercel.app)
 
-![Game Preview](https://via.placeholder.com/800x400.png?text=T3+Legends+Gameplay+Sneak+Peek)  
-*(Screenshot placeholder - add your actual game image here)*
 
 ## 🎮 Features
 - **Sliding Mechanic** 🔄  
