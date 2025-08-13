@@ -2,7 +2,7 @@
 **The Next Evolution of Strategic Tic-Tac-Toe**  
 
 A modern twist on the classic game with dynamic moves, strategic depth, and neon-powered visuals.  
-**Live Demo**: [Play Now](https://t3-legends.vercel.app)
+**Live Demo**: [Play Now](https://t3-legends-mbox.vercel.app/)
 
 
 ## 🎮 Features
