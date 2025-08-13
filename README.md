@@ -21,7 +21,7 @@ A modern twist on the classic game with dynamic moves, strategic depth, and neon
 
 ## 🚀 Quick Start
 1. **Play Online**  
-   Visit [Live Demo](https://t3-legends.vercel.app)
+   Visit [Live Demo](https://t3-legends-mbox.vercel.app/)
 
 2. **Local Installation**
    ```bash
